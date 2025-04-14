@@ -15,7 +15,6 @@ Możesz zdecydować się zachować wszystkie commity lub pominąć niektóre z n
 git commit --amend
 git tag <nazwa tagu> <nazwa>
 git describe <ref> - może pomóc ci zorientować się w sytuacji, gdy przesuniesz wiele commitów wstecz lub do przodu w historii
-<ref> - jest czymkolwiek, co git może odnieść do commita. Jeśli nie podasz <ref>, git użyje aktualnie checkoutowanego miejsca (HEAD)
 wygląd polecenia : <tag>_<numCommits>_g<hash
 
 
