@@ -1,2 +1,2 @@
-# poruszanie-si-w-GIT
+# poruszanie-się-w-GIT
 description
